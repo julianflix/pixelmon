@@ -1,22 +1,21 @@
 {
   "grass": [
-    "Bulbasaur",
-    "Charmander",
-    "Squirtle",
-    "Riolu",
-    "Grookey",
-    "Rillaboom"
+    {"name": "Bulbasaur", "sprite": "bulbasaur.png"},
+    {"name": "Charmander", "sprite": "charmander.png"},
+    {"name": "Riolu", "sprite": "riolu.png"},
+    {"name": "Grookey", "sprite": "grookey.png"},
+    {"name": "Rillaboom", "sprite": "rillaboom.png"}
   ],
   "water": [
-    "Sobble",
-    "Squirtle",
-    "Lapras",
-    "Mudkip"
+    {"name": "Sobble", "sprite": "sobble.png"},
+    {"name": "Squirtle", "sprite": "squirtle.png"},
+    {"name": "Lapras", "sprite": "lapras.png"},
+    {"name": "Mudkip", "sprite": "mudkip.png"}
   ],
   "sand": [
-    "Torchic",
-    "Meltan",
-    "Meowth",
-    "Sandshrew"
+    {"name": "Torchic", "sprite": "torchic.png"},
+    {"name": "Meltan", "sprite": "meltan.png"},
+    {"name": "Meowth", "sprite": "meowth.png"},
+    {"name": "Sandshrew", "sprite": "sandshrew.png"}
   ]
 }
