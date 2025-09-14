@@ -1,0 +1,22 @@
+{
+  "grass": [
+    "Bulbasaur",
+    "Charmander",
+    "Squirtle",
+    "Riolu",
+    "Grookey",
+    "Rillaboom"
+  ],
+  "water": [
+    "Sobble",
+    "Squirtle",
+    "Lapras",
+    "Mudkip"
+  ],
+  "sand": [
+    "Torchic",
+    "Meltan",
+    "Meowth",
+    "Sandshrew"
+  ]
+}
